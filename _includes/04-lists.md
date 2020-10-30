@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Things I :heart:
+* Coding (my favs as of now)
+  * Wordpress
+  * Node
+  * React
+* Making coffee
+* Watching sunrise while drinking coffe :grin:
